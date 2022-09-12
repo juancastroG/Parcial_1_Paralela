@@ -1,5 +1,13 @@
-# Parcial_1_Paralela
-Presentación del primer parcial de paralela
+# Parcial 1 Paralela
+
+Presentación del primer parcial de paralela analizando los tiempos de ejecución de la operacion de multiplicación de matrices clasica.
+
+## Integrantes:
+
+* Bryan Hernandez Pineda
+* Daniel Olarte Avila
+* Juan Carlos Castro Guevara
+* Shelsy Rodriguez Barajas
 
 ## Guia de ejecución
 
